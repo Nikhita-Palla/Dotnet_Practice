@@ -1,0 +1,14 @@
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll

@@ -1,0 +1,14 @@
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

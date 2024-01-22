@@ -1,0 +1,14 @@
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\bin\Debug\net8.0\ValueTypes.exe
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\bin\Debug\net8.0\ValueTypes.deps.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\bin\Debug\net8.0\ValueTypes.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\bin\Debug\net8.0\ValueTypes.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\bin\Debug\net8.0\ValueTypes.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\refint\ValueTypes.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ValueTypes.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\ValueTypes\obj\Debug\net8.0\ref\ValueTypes.dll

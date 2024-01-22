@@ -1,0 +1,14 @@
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\bin\Debug\net8.0\Enum_EG.exe
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\bin\Debug\net8.0\Enum_EG.deps.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\bin\Debug\net8.0\Enum_EG.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\bin\Debug\net8.0\Enum_EG.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\bin\Debug\net8.0\Enum_EG.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\refint\Enum_EG.dll
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.pdb
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\Enum_EG.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\New Github Learnings\Learnings_.net\C_Sharp Basics Coding\Enum_EG\obj\Debug\net8.0\ref\Enum_EG.dll
