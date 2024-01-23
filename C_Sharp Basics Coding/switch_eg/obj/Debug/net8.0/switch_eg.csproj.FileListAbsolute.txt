@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\bin\Debug\net8.0\switch_eg.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\bin\Debug\net8.0\switch_eg.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\bin\Debug\net8.0\switch_eg.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\bin\Debug\net8.0\switch_eg.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\bin\Debug\net8.0\switch_eg.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\refint\switch_eg.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\switch_eg.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\switch_eg\obj\Debug\net8.0\ref\switch_eg.dll

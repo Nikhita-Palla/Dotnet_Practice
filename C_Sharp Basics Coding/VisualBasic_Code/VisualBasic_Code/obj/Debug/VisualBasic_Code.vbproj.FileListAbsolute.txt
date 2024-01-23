@@ -1,0 +1,11 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\bin\Debug\VisualBasic_Code.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\bin\Debug\VisualBasic_Code.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\bin\Debug\VisualBasic_Code.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\bin\Debug\VisualBasic_Code.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.vbproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.Resources.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.vbproj.GenerateResource.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.vbproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\VisualBasic_Code\VisualBasic_Code\obj\Debug\VisualBasic_Code.pdb

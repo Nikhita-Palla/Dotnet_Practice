@@ -1,0 +1,15 @@
+using System;
+
+
+class Program
+{
+    static void Main(String[] args)
+    {
+        int a=10;
+	
+	Console.WriteLine(a);
+	
+	
+    }
+
+}

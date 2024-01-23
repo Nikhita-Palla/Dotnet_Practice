@@ -137,6 +137,7 @@ namespace ValueTypes
             Console.WriteLine("Max value of decimal = " + decimal.MaxValue);
             Console.WriteLine();
 
+            //dynamic
             dynamic myDynamic = 42;
             Console.WriteLine(myDynamic.GetType());
             myDynamic = "Hello, World!";
