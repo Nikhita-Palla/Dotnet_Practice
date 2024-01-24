@@ -1,0 +1,10 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\bin\Debug\Build_dll.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\bin\Debug\Build_dll.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\bin\Debug\Build_dll.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\bin\Debug\ClassLibrary1.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\bin\Debug\ClassLibrary1.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\obj\Debug\Build_dll.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\obj\Debug\Build_dll.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\obj\Debug\Build_dll.csproj.CopyComplete
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\obj\Debug\Build_dll.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Build_dll\Build_dll\obj\Debug\Build_dll.pdb

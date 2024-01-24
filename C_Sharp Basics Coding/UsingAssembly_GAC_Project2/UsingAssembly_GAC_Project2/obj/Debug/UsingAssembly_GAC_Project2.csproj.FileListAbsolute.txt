@@ -1,0 +1,9 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\bin\Debug\UsingAssembly_GAC_Project2.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\bin\Debug\UsingAssembly_GAC_Project2.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\bin\Debug\UsingAssembly_GAC_Project2.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\bin\Debug\Calculator_Assembly.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\obj\Debug\UsingAssembly_GAC_Project2.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\obj\Debug\UsingAssembly_GAC_Project2.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\obj\Debug\UsingAssembly_GAC_Project2.csproj.CopyComplete
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\obj\Debug\UsingAssembly_GAC_Project2.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\UsingAssembly_GAC_Project2\UsingAssembly_GAC_Project2\obj\Debug\UsingAssembly_GAC_Project2.pdb
