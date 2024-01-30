@@ -71,7 +71,7 @@ namespace Abstraction
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             // Creating instances of concrete classes
             Circle circle = new Circle(5);
@@ -84,6 +84,10 @@ namespace Abstraction
             // Calling methods without knowing the specific type
             shape1.DisplayInfo();
             shape2.DisplayInfo();
+        }
+        public void m1()
+        {
+            Console.WriteLine("From Abstraction");
         }
     }
 }

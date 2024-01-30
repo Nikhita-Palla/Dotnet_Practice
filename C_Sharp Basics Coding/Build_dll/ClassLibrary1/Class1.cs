@@ -10,8 +10,11 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        protected internal int id = 1;
+
         public string method() 
         {
+            
             return ("This is from DLL");
         }
         
