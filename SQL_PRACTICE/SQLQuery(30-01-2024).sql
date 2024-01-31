@@ -51,7 +51,7 @@ SP_help 'CommentTable';
 -- Article tag table (Manages the many-to-many relationship between articles and tags.So making the ArticleId and TagId as primary keys)
 create table ArticleTagTable (
 ArticleId int foreign key references ArticleTable(ArticleId),
-TagId INT FOREIGN KEY REFERENCES TagTable(TagId),
+TagId int foreign key references TagTable(TagId),
 primary key (ArticleId, TagId)
 );
 -- to see structure of ArticleTagTable
