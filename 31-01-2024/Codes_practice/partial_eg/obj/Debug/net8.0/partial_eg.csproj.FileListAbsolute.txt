@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\bin\Debug\net8.0\partial_eg.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\bin\Debug\net8.0\partial_eg.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\bin\Debug\net8.0\partial_eg.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\bin\Debug\net8.0\partial_eg.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\bin\Debug\net8.0\partial_eg.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\refint\partial_eg.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\partial_eg.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\partial_eg\obj\Debug\net8.0\ref\partial_eg.dll

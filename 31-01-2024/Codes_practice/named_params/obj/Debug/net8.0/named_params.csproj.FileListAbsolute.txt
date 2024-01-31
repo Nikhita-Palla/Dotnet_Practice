@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\bin\Debug\net8.0\named_params.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\bin\Debug\net8.0\named_params.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\bin\Debug\net8.0\named_params.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\bin\Debug\net8.0\named_params.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\bin\Debug\net8.0\named_params.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\refint\named_params.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\named_params.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\named_params\obj\Debug\net8.0\ref\named_params.dll

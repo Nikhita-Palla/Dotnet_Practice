@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\bin\Debug\net8.0\'ref_out'.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\bin\Debug\net8.0\'ref_out'.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\bin\Debug\net8.0\'ref_out'.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\bin\Debug\net8.0\'ref_out'.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\bin\Debug\net8.0\'ref_out'.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\refint\'ref_out'.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\'ref_out'.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\'ref_out'\obj\Debug\net8.0\ref\'ref_out'.dll

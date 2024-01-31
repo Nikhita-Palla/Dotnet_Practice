@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\bin\Debug\net8.0\async_await.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\bin\Debug\net8.0\async_await.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\bin\Debug\net8.0\async_await.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\bin\Debug\net8.0\async_await.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\bin\Debug\net8.0\async_await.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\refint\async_await.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\async_await.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\31-01-2024\Codes_practice\async_await\obj\Debug\net8.0\ref\async_await.dll
