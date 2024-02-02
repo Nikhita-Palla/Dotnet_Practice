@@ -8,3 +8,12 @@ C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Ca
 C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Calculator_Assembly\Calculator_Assembly\bin\Debug\ClassLibrary1.dll
 C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Calculator_Assembly\Calculator_Assembly\bin\Debug\ClassLibrary1.pdb
 C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\C_Sharp Basics Coding\Calculator_Assembly\Calculator_Assembly\obj\Debug\Calculator_Assembly.csproj.CopyComplete
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\bin\Debug\Calculator_Assembly.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\bin\Debug\Calculator_Assembly.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\bin\Debug\Calculator_Assembly.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\bin\Debug\ClassLibrary1.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\obj\Debug\Calculator_Assembly.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\obj\Debug\Calculator_Assembly.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\obj\Debug\Calculator_Assembly.csproj.CopyComplete
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\obj\Debug\Calculator_Assembly.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Calculator_Assembly_With_Documentation\Calculator_Assembly\obj\Debug\Calculator_Assembly.pdb
