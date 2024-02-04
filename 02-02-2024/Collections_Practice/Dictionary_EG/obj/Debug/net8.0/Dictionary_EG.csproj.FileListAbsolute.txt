@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\bin\Debug\net8.0\Dictionary_EG.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\bin\Debug\net8.0\Dictionary_EG.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\bin\Debug\net8.0\Dictionary_EG.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\bin\Debug\net8.0\Dictionary_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\bin\Debug\net8.0\Dictionary_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\refint\Dictionary_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\Dictionary_EG.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Dictionary_EG\obj\Debug\net8.0\ref\Dictionary_EG.dll

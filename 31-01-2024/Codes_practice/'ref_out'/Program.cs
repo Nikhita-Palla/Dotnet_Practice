@@ -45,6 +45,16 @@ class Program
         // Passing with out
         GetValuesWithOut(out resultX, out resultY);
         Console.WriteLine($"Values after method with out: {resultX}, {resultY}");
+
+        //Usecase of out
+        bool b = int.TryParse("STR", out int i);
+        Console.WriteLine(b);
+        Console.WriteLine(i);
+        Console.ReadLine();
+        /// <summary>
+        /// This method return integer 
+        /// </summary>
+        ///
     }
 
     

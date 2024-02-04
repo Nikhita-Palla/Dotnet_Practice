@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IEnnumerable_IEnnumerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ee2c29a319cd6fac58b22eea8f5e6150bd966a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d813e35e66d97d76a2fcf39453c970c9b09c3cf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IEnnumerable_IEnnumerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IEnnumerable_IEnnumerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
