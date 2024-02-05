@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\bin\Debug\net8.0\SortedSet_EG.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\bin\Debug\net8.0\SortedSet_EG.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\bin\Debug\net8.0\SortedSet_EG.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\bin\Debug\net8.0\SortedSet_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\bin\Debug\net8.0\SortedSet_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\refint\SortedSet_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\SortedSet_EG.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\05-02-2024\Codes_Practice\SortedSet_EG\obj\Debug\net8.0\ref\SortedSet_EG.dll
