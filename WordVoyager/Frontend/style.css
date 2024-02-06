@@ -1,0 +1,36 @@
+.heading{
+    margin-top: 20px;
+}
+#bgNavbar{
+    background-color: aliceblue;
+    color:white !important;
+}
+
+#LoginModal{
+    background-color:aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.containerArticle{
+    margin: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#comments{
+    margin-top:30px;
+}
+
+.containerContribute{
+    
+    margin-top:80px;
+    margin-left:250px;
+    margin-right : 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contributeArticle{
+    
+    background: url('./assets/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
