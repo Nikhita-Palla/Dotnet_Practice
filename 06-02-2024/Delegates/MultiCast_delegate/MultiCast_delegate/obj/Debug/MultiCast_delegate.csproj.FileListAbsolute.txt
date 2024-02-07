@@ -1,0 +1,7 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\bin\Debug\MultiCast_delegate.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\bin\Debug\MultiCast_delegate.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\bin\Debug\MultiCast_delegate.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\obj\Debug\MultiCast_delegate.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\obj\Debug\MultiCast_delegate.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\obj\Debug\MultiCast_delegate.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\MultiCast_delegate\MultiCast_delegate\obj\Debug\MultiCast_delegate.pdb
