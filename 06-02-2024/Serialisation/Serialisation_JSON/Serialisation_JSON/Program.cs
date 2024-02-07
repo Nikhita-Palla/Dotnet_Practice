@@ -13,13 +13,23 @@ namespace Serialisation_JSON
         static void Main(string[] args)
         {
             string path = @"C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_JSON\Json_file.json";
+            //serialisation
 
-            using(FileStream fs=new FileStream(path,FileMode.OpenOrCreate))
-            {
-                Employee emp = new Employee(1, "Ramesh");
+            /*Employee emp = new Employee(1, "Ramesh");
 
-                String jsonString=JsonSerializer.Serialize(emp);
-            }
+            String jsonString= JsonSerializer.Serialize(emp);
+             File.WriteAllText(path, jsonString);
+             Console.ReadLine();*/
+
+            string jsonString = File.ReadAllText(path);
+
+            Employee emp= JsonSerializer.Deserialize<Employee>(jsonString);
+
+            Console.WriteLine($"Employee Id: {emp.Id}, Name: {emp.Name}");
+
+
+
+
         }
     }
 }
