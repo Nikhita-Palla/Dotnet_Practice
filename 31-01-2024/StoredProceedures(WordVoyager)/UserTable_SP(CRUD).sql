@@ -3,42 +3,41 @@ use WordVoyager;
 
 
 
+
 -- Creating proceedure for inserting values to user table
 create procedure InsertUsers
-	@UserId int,
 	@UserName nvarchar(100),
 	@Email nvarchar(100),
 	@PasswordHash varchar(100),
 	@RegistrationDate datetime
 as
 begin
-	insert into dbo.UserTable(UserId,UserName,Email,PasswordHash,RegistrationDate) 
-	values (@UserId,@UserName,@Email,@PasswordHash,@RegistrationDate)
+	insert into dbo.UserTable(UserName,Email,PasswordHash,RegistrationDate) 
+	values (@UserName,@Email,@PasswordHash,@RegistrationDate)
 end;
 
 -- Executing the above proceedure to add users to UserTable
-exec InsertUsers 1,'Seeta','seeta@epam.com','hqsueba','2024-01-22';
-exec InsertUsers 2,'Geeta','geeta@epam.com','vsg34sv','2024-01-23';
-exec InsertUsers 3,'Meeta','meeta@epam.com','qvbhxs','2024-01-25';
-exec InsertUsers 4,'Sheela','sheela@epam.com','wbqhdg','2024-01-22';
-exec InsertUsers 5,'Ram','ram@epam.com','qshbehb','2024-01-21';
-exec InsertUsers 6,'Shyam','shyam@epam.com','cbhvrjer','2024-01-19';
+exec InsertUsers 'Seeta','seeta@epam.com','hqsueba','2024-01-22';
+exec InsertUsers 'Geeta','geeta@epam.com','vsg34sv','2024-01-23';
+exec InsertUsers 'Meeta','meeta@epam.com','qvbhxs','2024-01-25';
+exec InsertUsers 'Sheela','sheela@epam.com','wbqhdg','2024-01-22';
+exec InsertUsers 'Ram','ram@epam.com','qshbehb','2024-01-21';
+exec InsertUsers 'Shyam','shyam@epam.com','cbhvrjer','2024-01-19';
 
 
 -- Creating proceedure when one column is not given
 create procedure InsertUsers1
-	@UserId int,
 	@UserName nvarchar(100),
 	@Email nvarchar(100),
 	@RegistrationDate datetime
 as
 begin
-	insert into dbo.UserTable(UserId,UserName,Email,RegistrationDate) 
-	values (@UserId,@UserName,@Email,@RegistrationDate)
+	insert into dbo.UserTable(UserName,Email,RegistrationDate) 
+	values (@UserName,@Email,@RegistrationDate)
 end;
 
 -- Executing proceedure when one column is not given
-exec InsertUsers1 8,'Shyam','shyam@epam.com','2024-01-19';
+exec InsertUsers1 'Shyam','shyam@epam.com','2024-01-19';
 
 -- Creating proceedure to update the Email when UserId is given.
 create procedure updateEmail
@@ -52,8 +51,6 @@ end
 -- Executing the proceedure to update the password when UserId is given.
 exec updateEmail 2,'venkat@epam.com'
 exec updateEmail 4,'sheela.k@epam.com'
-exec updateEmail 8,'raghu@epam.com'
-
 
 -- Creating proceedure to update the UserName when UserId is given.
 create procedure updateUserName
@@ -66,7 +63,7 @@ end
 
 -- Executing the proceedure to update the password when UserId is given.
 exec updateUserName 2,'Venkat'
-exec updateUserName 8,'Raghu'
+
 
 
 

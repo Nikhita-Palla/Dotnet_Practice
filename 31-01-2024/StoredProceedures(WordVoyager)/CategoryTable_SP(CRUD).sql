@@ -5,18 +5,17 @@ use WordVoyager;
 
 -- Creating proceedure for inserting values to CategoryTable
 create procedure InsertCategory
-	@CategoryId int,
 	@name nvarchar(100),
 	@Description text
 as
 begin
-	insert into CategoryTable(CategoryId,name,Description) 
-	values (@CategoryId,@name,@Description)
+	insert into CategoryTable(name,Description) 
+	values (@name,@Description)
 end;
 
 -- Executing the above proceedure to add category to CategoryTable
-exec InsertCategory 1,'Technology', 'Articles related to technology and innovation'
-exec InsertCategory 2,'Travel', 'Explore the world through travel articles'
+exec InsertCategory 'Technology', 'Articles related to technology and innovation'
+exec InsertCategory 'Travel', 'Explore the world through travel articles'
 
 
 
@@ -58,7 +57,7 @@ begin
 end;
 
 -- Executing proceedures to select categories with all the columns based on CategoryId
-exec getCategoryWithCategoryId 1
+exec getCategoryWithCategoryId 3
 
 
 
@@ -71,7 +70,7 @@ begin
 end;
 
 -- Executing proceedures to get Description with CategoryId
-exec getDescriptionWithCategoryId 1
+exec getDescriptionWithCategoryId 3
 
 
 

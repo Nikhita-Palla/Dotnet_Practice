@@ -5,20 +5,19 @@ use WordVoyager;
 
 -- Creating proceedure for inserting values to CommentTable
 create procedure InsertComment
-	@CommentId int,
 	@ArticleId int,
 	@UserId int,
 	@Content text,
 	@CommentDate datetime
 as
 begin
-	insert into CommentTable(CommentId,ArticleId,Userid,Content,CommentDate) 
-	values (@CommentId,@ArticleId,@UserId,@Content,@CommentDate)
+	insert into CommentTable(ArticleId,Userid,Content,CommentDate) 
+	values (@ArticleId,@UserId,@Content,@CommentDate)
 end;
 
 -- Executing the above proceedure to add category to CategoryTable
-exec InsertComment 1, 1, 2, 'Great guide!', '2022-01-06 11:10:00'
-exec InsertComment 2, 2, 1, 'I want to visit these places!', '2022-01-12 10:00:00'
+exec InsertComment  1, 2, 'Great guide!', '2022-01-06 11:10:00'
+exec InsertComment  2, 1, 'I want to visit these places!', '2022-01-12 10:00:00'
 
 
 

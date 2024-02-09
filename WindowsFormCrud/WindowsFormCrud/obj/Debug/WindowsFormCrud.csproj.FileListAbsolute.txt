@@ -1,0 +1,10 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.Form1.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.Properties.Resources.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.csproj.GenerateResource.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\bin\Debug\WindowsFormCrud.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\bin\Debug\WindowsFormCrud.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\bin\Debug\WindowsFormCrud.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WindowsFormCrud\WindowsFormCrud\obj\Debug\WindowsFormCrud.pdb

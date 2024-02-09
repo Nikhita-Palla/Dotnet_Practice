@@ -5,17 +5,16 @@ use WordVoyager;
 
 -- Creating proceedure for inserting values to TagTable
 create procedure InsertTag
-	@TagId int,
 	@Name nvarchar(100)
 as
 begin
-	insert into TagTable(TagId,Name) 
-	values (@TagId,@Name)
+	insert into TagTable(Name) 
+	values (@Name)
 end;
 
 -- Executing the above proceedure for inserting values to TagTable
-exec InsertTag 1,'SQL'
-exec InsertTag 2,'Travel'
+exec InsertTag 'SQL'
+exec InsertTag 'Travel'
 
 
 

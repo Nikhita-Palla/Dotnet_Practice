@@ -4,7 +4,6 @@ use WordVoyager;
  
 -- Creating proceedure for inserting values to AttachmentTable
 create procedure InsertAttachment
-	@AttachmentId int,
 	@ArticleId int,
 	@FileName nvarchar(100),
 	@FileType nvarchar(100),
@@ -12,13 +11,13 @@ create procedure InsertAttachment
 	@UploadDate datetime
 as
 begin
-	insert into AttachmentTable(AttachmentId,ArticleId,FileName,FileType,FilePath,UploadDate) 
-	values (@AttachmentId,@ArticleId,@FileName,@FileType,@FilePath,@UploadDate)
+	insert into AttachmentTable(ArticleId,FileName,FileType,FilePath,UploadDate) 
+	values (@ArticleId,@FileName,@FileType,@FilePath,@UploadDate)
 end;
  
 -- Executing the above proceedure for inserting values to AttachmentTable
-exec InsertAttachment 1,1, 'sql_diagram.png', 'image/png', '/attachments/sql_diagram.png', '2022-01-08 14:00:00'
-exec InsertAttachment 2,2, 'travel_guide.pdf', 'application/pdf', '/attachments/travel_guide.pdf', '2022-01-14 11:45:00'
+exec InsertAttachment 1, 'sql_diagram.png', 'image/png', '/attachments/sql_diagram.png', '2022-01-08 14:00:00'
+exec InsertAttachment 2, 'travel_guide.pdf', 'application/pdf', '/attachments/travel_guide.pdf', '2022-01-14 11:45:00'
  
  
  

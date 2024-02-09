@@ -5,7 +5,6 @@ use WordVoyager;
 
 -- Creating proceedure for inserting values to Articletable
 create procedure InsertArticles
-	@ArticleId int,
 	@Title nvarchar(100),
 	@Content text,
 	@PublishedDate datetime,
@@ -14,13 +13,13 @@ create procedure InsertArticles
 	@CategoryId int
 as
 begin
-	insert into ArticleTable(ArticleId,Title,Content,PublishedDate,LastModifiedDate,AuthorId,CategoryId) 
-	values (@ArticleId,@Title,@Content,@PublishedDate,@LastModifiedDate,@AuthorId,@CategoryId)
+	insert into ArticleTable(Title,Content,PublishedDate,LastModifiedDate,AuthorId,CategoryId) 
+	values (@Title,@Content,@PublishedDate,@LastModifiedDate,@AuthorId,@CategoryId)
 end;
 
 -- Executing the above proceedure to add articles to ArticleTable
-exec InsertArticles 1,'Introduction to SQL', 'This is a guide to SQL...', '2022-01-05 08:45:00', '2022-01-05 08:45:00', 1, 1
-exec InsertArticles 2,'Best Places to Visit in 2022', 'Explore amazing destinations...', '2022-01-10 15:20:00', '2022-01-12 09:30:00', 2, 2;
+exec InsertArticles 'Introduction to SQL', 'This is a guide to SQL...', '2022-01-05 08:45:00', '2022-01-05 08:45:00', 1, 1
+exec InsertArticles 'Best Places to Visit in 2022', 'Explore amazing destinations...', '2022-01-10 15:20:00', '2022-01-12 09:30:00', 2, 2;
 
 
 
@@ -31,11 +30,11 @@ create procedure updateTitleInArticleTable
 	@NewTitle nvarchar(100)
 as
 begin
-	update ArticleTable set ArticleTitle=@NewTitle where ArticleId=@ArticleId
+	update ArticleTable set Title=@NewTitle where ArticleId=@ArticleId
 end
 
 -- Executing the proceedure to update the Title of a article when ArticleId is given
-exec updateTitleInArticleTable 1,'Introduction to MySQL', 'This is a guide to SQL...', '2022-01-05 08:45:00', '2022-01-05 08:45:00', 1, 1
+exec updateTitleInArticleTable 1,'Introduction to MySQL'
 
 
 
