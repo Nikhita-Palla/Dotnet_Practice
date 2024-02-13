@@ -10,3 +10,15 @@ C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\BillingSystem\BillingSys
 C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Bill.resources
 C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\BillingSystem\BillingSystem\obj\Debug\BillingSystem.EditForm.resources
 C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Reciept.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Bill.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.EditForm.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Reciept.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\08-02-2023\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb

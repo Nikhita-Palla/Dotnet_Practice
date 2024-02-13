@@ -34,3 +34,32 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+#cards{
+    width: 20rem;
+    color:black;
+    text-decoration: none;
+    border-style: none; 
+   
+}
+
+.author {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+   
+    font-size: 20px;
+    color: #666;
+
+}
+
+
+.background-radial-gradient {
+    background-color: hsl(218, 41%, 15%);
+
+}
+
+.bg-glass {
+    background-color: hsla(0, 0%, 100%, 0.9) !important;
+    backdrop-filter: saturate(200%) blur(25px);
+}

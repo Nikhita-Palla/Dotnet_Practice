@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articles Website</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg fixed-top" id="bgNavbar" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color:aliceblue">
+        <div class="container" >
+            <div class="row w-100">
+                <!-- Left side -->
+                <div class="col-lg-4">
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="#">Home</a>
+                            </li>
+                        
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                  Categories
+                                </a>
+                                <ul class="dropdown-menu">
+                                  <li><a class="dropdown-item" href="#">Philosophy</a></li>
+                                  <li><a class="dropdown-item" href="#">Psychology</a></li>
+                                  <li><a class="dropdown-item" href="#">Science</a></li>
+                                  <li><a class="dropdown-item" href="#">Culture</a></li>
+                                  <li><a class="dropdown-item" href="#">Technology</a></li>
+                                </ul>
+                              </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Centered title -->
+                <div class="col-md-4 text-center">
+                    <a class="navbar-brand mx-auto" href="#">WordVoyager</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+                <!-- Right side -->
+                <div class="col-md-4 d-flex" >
+                    <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                    
+                                </div>
+                                <div class="col">
+                                    <ul class="navbar-nav ml-auto">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#loginModal">Login</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#registerModal">Register</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="contribute.html" >Contribute</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+               
+<!-- Login Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+
+    <div class="modal-dialog">
+        <div class="modal-content" id="LoginModal">
+            <div class="modal-header" >
+                <h5 class="modal-title" id="loginModalLabel" style="text-align: center;" >Login here</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                
+                <form action="index.html">
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Email</label>
+                        <input type="text" class="form-control" id="username" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Register Modal -->
+<div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" id="LoginModal">
+            <div class="modal-header">
+                <h5 class="modal-title" id="registerModalLabel">Register</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Register form -->
+                <form action="register.php" method="post">
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="username" name="username" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="password" name="password" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="retypePassword" class="form-label">Retype Password</label>
+                        <input type="password" class="form-control" id="retypePassword" name="retypePassword" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="aadharNumber" class="form-label">Aadhar Number</label>
+                        <input type="text" class="form-control" id="aadharNumber" name="aadharNumber" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="address" class="form-label">Address</label>
+                        <textarea class="form-control" id="address" name="address" rows="3" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="carouselExampleCaptions" class="carousel slide " >
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner" >
+          <div class="carousel-item active" style="height: 500px;">
+            <img src="https://res.cloudinary.com/teepublic/image/private/s--vtDBtkOY--/t_Preview/b_rgb:191919,c_lpad,f_jpg,h_630,q_90,w_1200/v1448636198/production/designs/12365_1.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Science</h5>
+              <p>Science uncovers mysteries</p>
+            </div>
+          </div>
+          <div class="carousel-item" style="height: 500px;">
+            <img src="https://assets.entrepreneur.com/content/3x2/2000/20160105180846-brain-psychological-psychology-thinking-network-smart-education-creative-pointing.jpeg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Psychology</h5>
+              <p>Psychology delves into the depths of the human mind.</p>
+            </div>
+          </div>
+          <div class="carousel-item" style="height: 500px;">
+            <img src="https://wallpapercave.com/wp/wp5426550.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Technology</h5>
+              <p>Technology revolutionizes our world</p>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+      <div class="container">
+        <div class="heading">
+            <h2 style="text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Articles</h2>
+        </div>
+        <div class="row" style="margin: 20px;">
+            <div class="col-4">
+                <a href="article.html" class="card" id="cards">
+                    <img src="https://insidebigdata.com/wp-content/uploads/2019/04/DataScience_shutterstock_1054542323.jpg" class="card-img-top" alt="..." width="200" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">Data Science</h5>
+                        
+                        <p class="card-text">Data science is an interdisciplinary field that utilizes scientific methods, algorithms, processes, and systems for traditional purposes.</p>
+                    </div>
+                    
+                </a>
+            </div>
+    
+            <div class="col-4">
+                <a href="article.html" class="card" id="cards">
+                    <img src="https://www.atulhost.com/wp-content/uploads/2017/06/big-data.jpg" class="card-img-top" alt="..." width="200" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">Big data</h5>
+                        <p class="card-text">Big data refers to extremely large and complex datasets that cannot be easily managed, processed, or analyzed.</p>
+                    </div>
+                </a>
+            </div>
+    
+            <div class="col-4">
+                <a href="article.html" class="card" id="cards">
+                    <img src="https://www.pixelstalk.net/wp-content/uploads/2016/10/Biology-Wallpaper-Full-HD.jpg" class="card-img-top" alt="..." width="200" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">DNA Science</h5>
+                        <p class="card-text">DNA science, also known as genetics or molecular biology, is the study of deoxyribonucleic acid (DNA).</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    
+        <div class="row" style="margin: 20px;">
+            <div class="col-4">
+                <a href="article.html" class="card" id="cards">
+                    <img src="https://th.bing.com/th/id/OIP.ERhRaeJrE8OUjla3KevOLgHaEO?rs=1&pid=ImgDetMain" class="card-img-top" alt="..." width="200" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">Hadoop</h5>
+                        <p class="card-text">Hadoop is widely used for big data processing and analysis tasks and has become a used technology in the field of data analytics.</p>
+                    </div>
+                </a>
+            </div>
+    
+            <div class="col-4">
+                <a href="article.html" class="card" id="cards">
+                    <img src="https://th.bing.com/th/id/R.9dae8065bc5edfd085ba0334dba39bfb?rik=yVksZ3uhCqo36w&riu=http%3a%2f%2fdesigngeekz.com%2fwp-content%2fuploads%2f2018%2f09%2fdotnet.jpg&ehk=8k%2bjUe3e9nBKWCwFNcXNcaiPvGohKqdZXow%2bTzlQ%2bnA%3d&risl=&pid=ImgRaw&r=0" class="card-img-top" alt="..." width="200" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">Dot Net</h5>
+                        <p class="card-text">.NET, commonly referred to as dotNET, is a free, open-source developer platform created by Microsoft.</p>
+                    </div>
+                </a>
+            </div>
+    
+            <div class="col-4">
+                <a href="article.html" class="card" id="cards">
+                    <img src="https://www.verywellmind.com/thmb/fF8hhE1vdAJNXHLfDqj6T700yMM=/1500x1000/filters:fill(ABEAC3,1)/The-Major-Branches-of-Psychology-4139786-final-15133a69be64406db16dc63cd97a3a17.png" class="card-img-top" alt="..." width="200" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">Fields of Psychology</h5>
+                        <p class="card-text">Psychology is a broad field that encompasses various subfields, each focusing on different aspects of human behavior.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
