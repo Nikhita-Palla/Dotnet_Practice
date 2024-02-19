@@ -31,10 +31,10 @@ namespace Article_CustomAuth.Controllers
                 bool b = UserAuthentication.register(name, pwd);
                 if (b)
                 {
-                    ViewBag.RegisterSuccess = true;
+                    TempData["RegisterMessage"] = "Registration Successful";
                     return RedirectToAction("Login", "Accounts");
                 }
-                ViewBag.RegisterSuccess = false;
+                TempData["RegisterMessage"] = "Registration failed";
 
 
 
@@ -64,12 +64,13 @@ namespace Article_CustomAuth.Controllers
                 {
                     
                     FormsAuthentication.SetAuthCookie(model.Name, true);
-                   
+                    TempData["LoginMessage"] = "Login Successful";
                     return RedirectToAction("Index", "Article");
                 }
                 else
                 {
-                   
+                    TempData["LoginMessage"] = "Login failed";
+                    
                     return RedirectToAction("Register", "Accounts");
                 }
                 

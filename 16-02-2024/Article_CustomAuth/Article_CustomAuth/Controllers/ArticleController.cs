@@ -1,4 +1,4 @@
-﻿using Article_CustomAuth.fillter;
+﻿
 using Article_CustomAuth.Models;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ namespace Article_CustomAuth.Controllers
 {
     public class ArticleController : Controller
     {
-        
+
         [Authorize(Roles = "Admin, Editor, Reader")]
         // GET: Article
         public ActionResult Index()

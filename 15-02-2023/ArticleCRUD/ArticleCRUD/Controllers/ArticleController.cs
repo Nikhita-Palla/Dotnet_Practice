@@ -22,7 +22,7 @@ namespace ArticleCRUD.Controllers
             var articles = ArticleDatabase.GetAllArticles();
             return View(articles);
         }*/
-       
+        [Authorize]       
         public ActionResult Index(int? page, string sortOrder)
         {
 

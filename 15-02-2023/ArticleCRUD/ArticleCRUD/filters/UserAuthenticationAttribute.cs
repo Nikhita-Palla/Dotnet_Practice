@@ -14,7 +14,8 @@ namespace ArticleCRUD.filters
         {
             if (!filterContext.HttpContext.User.Identity.IsAuthenticated)
             {
-                filterContext.Result = new HttpUnauthorizedResult();
+                //filterContext.Result = new HttpUnauthorizedResult();
+
             }
         }
 
@@ -24,7 +25,9 @@ namespace ArticleCRUD.filters
             if (filterContext.Result == null || filterContext.Result is HttpUnauthorizedResult)
             {
 
-                return;
+                filterContext.Result = new RedirectToRouteResult(
+                     new RouteValueDictionary(new { controller = "Accounts", action = "Login" })
+                 );
             }
 
         }

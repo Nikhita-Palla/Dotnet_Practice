@@ -1,6 +1,7 @@
 ﻿@model Article_CustomAuth.Models.UserModel
 @{
     ViewBag.Title = "Login";
+    
 }
 
 <h2>Login</h2>
@@ -24,5 +25,7 @@
     <br />
     <br />
     @Html.Label("New User?") <a href="@Url.Action("Register", "Accounts")" class="btn btn-secondary">Register</a>
+
+
 }
 

@@ -12,7 +12,6 @@ namespace ArticleCRUD.Controllers
 {
     public class AccountsController : Controller
     {
-
         [AllowAnonymous]
         // GET: Accounts/Register
         public ActionResult Register()
@@ -60,7 +59,7 @@ namespace ArticleCRUD.Controllers
                 bool b = UserAuthentication.validate(model.Name, model.password);
                 if (b)
                 {
-                    FormsAuthentication.SetAuthCookie(model.Name,true);
+                    FormsAuthentication.SetAuthCookie(model.Name,false);
                     return RedirectToAction("Index", "Article");
                 }
             }
