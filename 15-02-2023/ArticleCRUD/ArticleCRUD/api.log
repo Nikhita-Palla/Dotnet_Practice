@@ -1,0 +1,23 @@
+2024-02-17 12:07:56,442  INFO ArticleCRUD.Controllers.ArticleController - MESSAGE: Hello
+2024-02-17 12:14:14,163  INFO ArticleCRUD.Controllers.ArticleController - MESSAGE: Hello
+2024-02-17 13:09:29,163 ERROR ArticleCRUD.Filter.CustomExceptionAttribute - MESSAGE: An exception occurred: The view 'Error' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Article/Error.aspx
+~/Views/Article/Error.ascx
+~/Views/Shared/Error.aspx
+~/Views/Shared/Error.ascx
+~/Views/Article/Error.cshtml
+~/Views/Article/Error.vbhtml
+~/Views/Shared/Error.cshtml
+~/Views/Shared/Error.vbhtml
+System.InvalidOperationException: The view 'Error' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Article/Error.aspx
+~/Views/Article/Error.ascx
+~/Views/Shared/Error.aspx
+~/Views/Shared/Error.ascx
+~/Views/Article/Error.cshtml
+~/Views/Article/Error.vbhtml
+~/Views/Shared/Error.cshtml
+~/Views/Shared/Error.vbhtml
+   at System.Web.Mvc.ViewResult.FindView(ControllerContext context)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)

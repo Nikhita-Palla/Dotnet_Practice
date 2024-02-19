@@ -2,7 +2,6 @@
 
 @{
     ViewBag.Title = "Index";
-    //Layout = "~/Views/Home/Index.cshtml";
 }
 
 <h2>Index</h2>
@@ -25,10 +24,10 @@
             @Html.DisplayNameFor(model => model.LastModifiedDate)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.AuthorId)
+            @Html.DisplayNameFor(model => model.User.UserName)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.CategoryId)
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
         </th>
         <th></th>
     </tr>
@@ -48,10 +47,10 @@
             @Html.DisplayFor(modelItem => item.LastModifiedDate)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.AuthorId)
+            @Html.DisplayFor(modelItem => item.User.UserName)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.CategoryId)
+            @Html.DisplayFor(modelItem => item.Category.CategoryName)
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.ArticleId }) |

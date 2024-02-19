@@ -8,18 +8,14 @@ using System.Configuration;
 
 namespace CodeFirst_Article_MVC.Models
 {
-    public class ArticleContext : DbContext
+    public class ArticleContext 
     {
         public static string connection = ConfigurationManager.ConnectionStrings["conn"].ConnectionString;
         public DbSet<ArticleModel> Articles { get; set; }
         public DbSet<UserModel> Authors { get; set; }
         public DbSet<CategoryModel> Categories { get; set; }
 
-        public DbSet<TagModel> Tags { get; set; }
-
-        public ArticleContext() : base(connection) // Update with your connection string name
-        {
-        }
+       
 
     }
 }

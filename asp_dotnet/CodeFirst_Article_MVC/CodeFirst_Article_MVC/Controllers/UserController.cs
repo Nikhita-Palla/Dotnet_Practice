@@ -61,7 +61,7 @@ namespace CodeFirst_Article_MVC.Controllers
             
             return View();
         }
-
+        [Authorize]
         public ActionResult Delete(int id)
         {
             var row=userContext.Authors.Where(model=>model.UserId == id).FirstOrDefault();

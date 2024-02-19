@@ -1,0 +1,2 @@
+2024-02-18 00:31:32,472 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20
