@@ -1,0 +1,9 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\bin\Debug\Services.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\bin\Debug\Services.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\bin\Debug\DAL.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\bin\Debug\DAL.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\obj\Debug\Services.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\Services\obj\Debug\Services.pdb

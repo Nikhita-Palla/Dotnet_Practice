@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enum_EG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ee2c29a319cd6fac58b22eea8f5e6150bd966a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+421fbb554919edc95f8e3c7498bda301b69a5acb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enum_EG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enum_EG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

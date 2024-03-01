@@ -1,0 +1,6 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\MathsLibrary\bin\Debug\MathsLibrary.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\MathsLibrary\bin\Debug\MathsLibrary.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\MathsLibrary\obj\Debug\MathsLibrary.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\MathsLibrary\obj\Debug\MathsLibrary.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\MathsLibrary\obj\Debug\MathsLibrary.pdb

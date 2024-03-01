@@ -1,0 +1,7 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\bin\Debug\LINQ_Conversion.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\bin\Debug\LINQ_Conversion.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\bin\Debug\LINQ_Conversion.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\obj\Debug\LINQ_Conversion.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\obj\Debug\LINQ_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\obj\Debug\LINQ_Conversion.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Conversion\obj\Debug\LINQ_Conversion.pdb

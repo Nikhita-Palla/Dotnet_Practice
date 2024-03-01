@@ -23,7 +23,7 @@ namespace RestfulServices.Controllers
         // GET: Products
         public IHttpActionResult Get()
         {
-            return Ok(products);
+            return (IHttpActionResult)products;
         }
 
     }

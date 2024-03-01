@@ -14,7 +14,7 @@ namespace CalculationWithWCF
 
         }
         ServiceReference1.IService1 service1=new ServiceReference1.Service1Client();
-protected void Button1_Click(object sender, EventArgs e)
+        protected void Button1_Click(object sender, EventArgs e)
         {
             int a=int.Parse(TextBox1.Text);
             int b = int.Parse(TextBox2.Text);
