@@ -1,6 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\DAL\bin\Debug\DAL.dll
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\DAL\bin\Debug\DAL.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\DAL\obj\Debug\DAL.dll
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\20-02-2024\DIUnityFramework\DAL\obj\Debug\DAL.pdb

@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\bin\Debug\ThreadPriorities.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\bin\Debug\ThreadPriorities.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\bin\Debug\ThreadPriorities.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\obj\Debug\ThreadPriorities.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\obj\Debug\ThreadPriorities.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\obj\Debug\ThreadPriorities.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\ThreadPriorities\obj\Debug\ThreadPriorities.pdb

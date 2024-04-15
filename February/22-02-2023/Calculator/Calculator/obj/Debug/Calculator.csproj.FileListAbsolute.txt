@@ -1,0 +1,12 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\nunit.framework.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\nunit.framework.legacy.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\nunit.framework.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\bin\Debug\nunit.framework.legacy.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete

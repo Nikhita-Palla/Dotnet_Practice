@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DOM Manipulation Example</title>
+</head>
+<body>
+  <div id="example-div">
+    <p>This is a <strong>paragraph</strong>.</p>
+    <button id="example-button">Click me!</button>
+  </div>
+
+  <script>
+    // Accessing elements
+    const exampleDiv = document.getElementById('example-div');
+    const exampleButton = document.getElementById('example-button');
+
+    // Get and set properties
+    console.log('tagName:', exampleDiv.tagName); // Output: "DIV"
+
+    console.log('innerText:', exampleDiv.innerText); // Output: "This is a paragraph."
+    exampleDiv.innerText = 'New text'; // Set innerText
+    console.log('innerText (after setting):', exampleDiv.innerText); // Output: "New text"
+
+    console.log('innerHTML:', exampleDiv.innerHTML); // Output: "<p>This is a <strong>paragraph</strong>.</p>"
+    exampleDiv.innerHTML = '<p>New HTML content</p>'; // Set innerHTML
+    console.log('innerHTML (after setting):', exampleDiv.innerHTML); // Output: "<p>New HTML content</p>"
+
+    console.log('textContent:', exampleDiv.textContent); // Output: "New HTML content"
+    </script>
+</body>
+</html>

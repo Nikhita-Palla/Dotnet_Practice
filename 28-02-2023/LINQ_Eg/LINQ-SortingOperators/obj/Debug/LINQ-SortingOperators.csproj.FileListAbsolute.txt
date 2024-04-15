@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\bin\Debug\LINQ-SortingOperators.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\bin\Debug\LINQ-SortingOperators.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\bin\Debug\LINQ-SortingOperators.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\obj\Debug\LINQ-SortingOperators.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\obj\Debug\LINQ-SortingOperators.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\obj\Debug\LINQ-SortingOperators.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ-SortingOperators\obj\Debug\LINQ-SortingOperators.pdb

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <script>
+        function msg(){
+            alert("Hello!");
+        }
+        function getSquare(num){
+           
+            let square=num*num;
+            alert("Square of num: "+square);
+
+        }
+        function getHello(){
+            var outputElement = document.getElementById("output");
+            outputElement.innerHTML += getMessage();
+        }
+        function getMessage(){
+            return "Hello World"
+        }
+    </script>
+    <h3>Function Call</h3>
+    <input type="button" value="Click" onclick="msg()" />
+    <br>
+    <br>
+    <h3>Function With Arguments</h3>
+    <input type="button" value="Click" onclick="getSquare(2)" />
+    <br>
+    <br>
+    <h3>Function with return Value</h3>
+    <input type="button" value="click" onclick="getHello()"/>
+    <div id="output"></div>
+</body>
+</html>

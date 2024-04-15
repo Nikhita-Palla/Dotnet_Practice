@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\bin\Debug\net8.0\tryParse.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\bin\Debug\net8.0\tryParse.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\bin\Debug\net8.0\tryParse.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\bin\Debug\net8.0\tryParse.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\bin\Debug\net8.0\tryParse.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\refint\tryParse.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\tryParse.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\tryParse\obj\Debug\net8.0\ref\tryParse.dll

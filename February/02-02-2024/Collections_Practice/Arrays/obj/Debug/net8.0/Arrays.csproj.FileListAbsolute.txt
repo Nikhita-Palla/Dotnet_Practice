@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Arrays\obj\Debug\net8.0\ref\Arrays.dll

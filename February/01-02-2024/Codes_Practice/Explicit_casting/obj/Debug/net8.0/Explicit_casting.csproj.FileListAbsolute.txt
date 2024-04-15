@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\bin\Debug\net8.0\Explicit_casting.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\bin\Debug\net8.0\Explicit_casting.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\bin\Debug\net8.0\Explicit_casting.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\bin\Debug\net8.0\Explicit_casting.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\bin\Debug\net8.0\Explicit_casting.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\refint\Explicit_casting.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\Explicit_casting.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\Explicit_casting\obj\Debug\net8.0\ref\Explicit_casting.dll

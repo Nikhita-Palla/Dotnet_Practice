@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\obj\Debug\LINQ_Joins.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\obj\Debug\LINQ_Joins.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\bin\Debug\LINQ_Joins.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\bin\Debug\LINQ_Joins.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\bin\Debug\LINQ_Joins.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\obj\Debug\LINQ_Joins.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\28-02-2023\LINQ_Eg\LINQ_Joins\obj\Debug\LINQ_Joins.pdb

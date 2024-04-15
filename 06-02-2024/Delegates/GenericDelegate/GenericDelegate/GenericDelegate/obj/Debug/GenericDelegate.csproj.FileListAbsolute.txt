@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

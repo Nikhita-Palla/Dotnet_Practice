@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\14-02-2023\RestFul\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

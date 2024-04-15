@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\bin\Debug\Thread_Locking.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\bin\Debug\Thread_Locking.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\bin\Debug\Thread_Locking.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\obj\Debug\Thread_Locking.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\obj\Debug\Thread_Locking.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\obj\Debug\Thread_Locking.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MultiThreading_EG\Thread_Locking\obj\Debug\Thread_Locking.pdb

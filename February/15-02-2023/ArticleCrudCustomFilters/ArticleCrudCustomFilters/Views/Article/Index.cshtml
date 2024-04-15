@@ -1,0 +1,82 @@
+﻿
+<style>
+    /* Style pagination links within the pagination container */
+    .pagination {
+        display: flex;
+        justify-content: center;
+        padding: 20px 0; /* Adjust padding as needed */
+        font-size: larger;
+    }
+
+        .pagination .pagination-link {
+            margin-left: 5px; /* Adjust margin as needed */
+        }
+</style>
+@using PagedList.Mvc
+@model PagedList.IPagedList<ArticleCrudCustomFilters.Models.ArticleModel>
+
+
+@{
+    ViewBag.Title = "Article";
+}
+
+<h2>Article Details</h2>
+
+<p style="float:left">
+    @Html.ActionLink("Create New", "Create")
+</p>
+@if (User.Identity.IsAuthenticated)
+{
+    <ul class="nav navbar-nav navbar-right" style="float:right">
+        <form action="@Url.Action("Logout", "Accounts")" method="post" id="logoutForm">
+            @Html.AntiForgeryToken()
+            <button type="submit">Logout</button>
+        </form>
+    </ul>
+}
+<table class="table table-hover">
+    <tr>
+        <th>
+            @Html.ActionLink("Title", "Index", new { sortOrder = ViewBag.TitleSortParam })
+        </th>
+        <th>
+            Content
+        </th>
+        <th>
+            @Html.ActionLink("Published Date", "Index", new { sortOrder = ViewBag.DateSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Last Published Date", "Index", new { sortOrder = ViewBag.DateSortParam })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublishedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastModifiedDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ArticleId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ArticleId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ArticleId })
+            </td>
+        </tr>
+
+
+
+    }
+</table>
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort }))
+</div>

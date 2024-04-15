@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\bin\Debug\net8.0\convert_class.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\bin\Debug\net8.0\convert_class.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\bin\Debug\net8.0\convert_class.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\bin\Debug\net8.0\convert_class.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\bin\Debug\net8.0\convert_class.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\refint\convert_class.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\convert_class.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\convert_class\obj\Debug\net8.0\ref\convert_class.dll

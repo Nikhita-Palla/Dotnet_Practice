@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\bin\Debug\EventHandler.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\bin\Debug\EventHandler.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\bin\Debug\EventHandler.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\obj\Debug\EventHandler_EG.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\obj\Debug\EventHandler_EG.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\obj\Debug\EventHandler.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\09-02-2024\EventHandler\EventHandler\obj\Debug\EventHandler.pdb

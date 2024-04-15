@@ -1,0 +1,10 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\bin\Debug\MailSchedular.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\bin\Debug\MailSchedular.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\bin\Debug\MailSchedular.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.ProjectInstaller.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.Service2.resources
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.csproj.GenerateResource.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\MailSchedular\MailSchedular\obj\Debug\MailSchedular.pdb

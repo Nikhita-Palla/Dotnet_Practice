@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IEnnumerable_IEnnumerator/1.0.0": {
+        "runtime": {
+          "IEnnumerable_IEnnumerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IEnnumerable_IEnnumerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

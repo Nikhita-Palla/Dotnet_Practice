@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\bin\Debug\net8.0\parse.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\bin\Debug\net8.0\parse.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\bin\Debug\net8.0\parse.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\bin\Debug\net8.0\parse.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\bin\Debug\net8.0\parse.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\refint\parse.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\parse.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\01-02-2024\Codes_Practice\parse\obj\Debug\net8.0\ref\parse.dll

@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\obj\Debug\Event_EG.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\obj\Debug\Event_EG.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\bin\Debug\Event_EG.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\bin\Debug\Event_EG.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\bin\Debug\Event_EG.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\obj\Debug\Event_EG.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\26-02-2024\Event_EG\Event_EG\obj\Debug\Event_EG.pdb

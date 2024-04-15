@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\bin\Debug\Serialisation_XML.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\bin\Debug\Serialisation_XML.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\bin\Debug\Serialisation_XML.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\obj\Debug\Serialisation_XML.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\obj\Debug\Serialisation_XML.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\obj\Debug\Serialisation_XML.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\Serialisation_XML\Serialisation_XML\Serialisation_XML\obj\Debug\Serialisation_XML.pdb

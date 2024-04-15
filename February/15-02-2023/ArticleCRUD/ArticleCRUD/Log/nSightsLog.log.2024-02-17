@@ -1,0 +1,12 @@
+2024-02-17 15:28:59,567 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20
+2024-02-17 15:29:11,460 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20
+2024-02-17 15:29:21,741 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20
+2024-02-17 18:33:18,094 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20
+2024-02-17 18:34:20,099 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20
+2024-02-17 18:35:05,156 ERROR ArticleCRUD.Controllers.HomeController - Error System.Exception: Test
+   at ArticleCRUD.Controllers.HomeController.Index() in C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\15-02-2023\ArticleCRUD\ArticleCRUD\Controllers\HomeController.cs:line 20

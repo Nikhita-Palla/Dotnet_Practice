@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\obj\Debug\Delegates_EG.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\obj\Debug\Delegates_EG.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\bin\Debug\Delegates_EG.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\bin\Debug\Delegates_EG.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\bin\Debug\Delegates_EG.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\obj\Debug\Delegates_EG.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Delegates\Delegates_EG\Delegates_EG\obj\Debug\Delegates_EG.pdb

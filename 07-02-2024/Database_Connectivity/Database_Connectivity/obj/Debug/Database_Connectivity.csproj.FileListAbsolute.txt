@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\bin\Debug\Database_Connectivity.exe.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\bin\Debug\Database_Connectivity.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\bin\Debug\Database_Connectivity.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\obj\Debug\Database_Connectivity.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\obj\Debug\Database_Connectivity.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\obj\Debug\Database_Connectivity.exe
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\Database_Connectivity\obj\Debug\Database_Connectivity.pdb

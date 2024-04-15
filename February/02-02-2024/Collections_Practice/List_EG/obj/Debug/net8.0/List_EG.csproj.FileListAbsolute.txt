@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\bin\Debug\net8.0\List_EG.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\bin\Debug\net8.0\List_EG.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\bin\Debug\net8.0\List_EG.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\bin\Debug\net8.0\List_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\bin\Debug\net8.0\List_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\refint\List_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\List_EG.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\List_EG\obj\Debug\net8.0\ref\List_EG.dll

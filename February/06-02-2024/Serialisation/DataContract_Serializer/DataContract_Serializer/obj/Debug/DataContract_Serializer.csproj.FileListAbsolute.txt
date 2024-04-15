@@ -1,0 +1,7 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\bin\Debug\DataContract_Serializer.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\bin\Debug\DataContract_Serializer.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\bin\Debug\DataContract_Serializer.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\obj\Debug\DataContract_Serializer.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\obj\Debug\DataContract_Serializer.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\obj\Debug\DataContract_Serializer.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\06-02-2024\Serialisation\DataContract_Serializer\DataContract_Serializer\obj\Debug\DataContract_Serializer.pdb

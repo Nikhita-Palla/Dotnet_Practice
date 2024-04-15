@@ -1,6 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Custom_Collection\CustomArrayList_Class\CustomArrayList_Class\bin\Debug\CustomArrayList_Class.dll
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Custom_Collection\CustomArrayList_Class\CustomArrayList_Class\bin\Debug\CustomArrayList_Class.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Custom_Collection\CustomArrayList_Class\CustomArrayList_Class\obj\Debug\CustomArrayList_Class.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Custom_Collection\CustomArrayList_Class\CustomArrayList_Class\obj\Debug\CustomArrayList_Class.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Custom_Collection\CustomArrayList_Class\CustomArrayList_Class\obj\Debug\CustomArrayList_Class.dll
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Custom_Collection\CustomArrayList_Class\CustomArrayList_Class\obj\Debug\CustomArrayList_Class.pdb

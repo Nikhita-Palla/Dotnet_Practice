@@ -1,0 +1,7 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\bin\Debug\UserTable.exe.config
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\bin\Debug\UserTable.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\bin\Debug\UserTable.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\obj\Debug\UserTable.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\obj\Debug\UserTable.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\obj\Debug\UserTable.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\WordVoyager\Database_Connectivity\UserTable\obj\Debug\UserTable.pdb

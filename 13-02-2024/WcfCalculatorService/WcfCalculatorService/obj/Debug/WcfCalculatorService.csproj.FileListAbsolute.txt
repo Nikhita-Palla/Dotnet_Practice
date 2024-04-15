@@ -1,7 +1,0 @@
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\bin\WcfCalculatorService.dll.config
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\bin\WcfCalculatorService.dll
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\bin\WcfCalculatorService.pdb
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.csproj.AssemblyReference.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.csproj.CoreCompileInputs.cache
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.dll
-C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\13-02-2024\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.pdb

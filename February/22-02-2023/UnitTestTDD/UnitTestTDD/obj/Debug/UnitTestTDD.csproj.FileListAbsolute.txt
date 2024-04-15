@@ -1,0 +1,17 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\obj\Debug\UnitTestTDD.csproj.AssemblyReference.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\obj\Debug\UnitTestTDD.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\UnitTestTDD.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\UnitTestTDD.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\MathsLibrary.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\MathsLibrary.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\obj\Debug\UnitTestTDD.csproj.CopyComplete
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\obj\Debug\UnitTestTDD.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\22-02-2023\UnitTestTDD\UnitTestTDD\obj\Debug\UnitTestTDD.pdb

@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\bin\Debug\net8.0\Queue_EG.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\bin\Debug\net8.0\Queue_EG.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\bin\Debug\net8.0\Queue_EG.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\bin\Debug\net8.0\Queue_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\bin\Debug\net8.0\Queue_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\refint\Queue_EG.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\Queue_EG.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\02-02-2024\Collections_Practice\Queue_EG\obj\Debug\net8.0\ref\Queue_EG.dll
